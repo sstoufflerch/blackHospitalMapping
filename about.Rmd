@@ -9,6 +9,7 @@ navbar:
       href: about.html
     - text: "Map"
       href: map.html
+      
 ---
 
 More about this website.

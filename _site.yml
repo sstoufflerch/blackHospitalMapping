@@ -1,4 +1,8 @@
-name: "my-website"
+name: "black-hospital-mapping"
+title: "Mapping Website"
+description:
+  Black Hospital Mapping Site
+output_dir: "docs"
 navbar:
   title: "Black Hospital Mapping Project"
   left:
@@ -8,4 +12,4 @@ navbar:
       href: about.html
     - text: "Map"
       href: map.html
-  output_dir: "docs"
+  output: distill::distill_article
