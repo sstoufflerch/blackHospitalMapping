@@ -1,5 +1,4 @@
 name: "my-website"
-output_dir: docs
 navbar:
   title: "Black Hospital Mapping Project"
   left:
@@ -7,3 +6,4 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+  output_dir: docs
