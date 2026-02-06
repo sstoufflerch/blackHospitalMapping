@@ -1,5 +1,14 @@
 ---
 title: "About This Website"
+navbar:
+  title: "Black Hospital Mapping Project"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Map"
+      href: map.html
 ---
 
 More about this website.
