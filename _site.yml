@@ -6,4 +6,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Map"
+      href: map.html
   output_dir: "docs"
